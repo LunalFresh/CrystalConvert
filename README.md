@@ -4,10 +4,13 @@ A CustomTkinter-based file converter that leverages FFmpeg for converting audio,
 
 # Features
 
--Supports multiple file formats:
-Audio: MP3, WAV, AAC, OGG, FLAC, M4A, WMA, and more.
-Video: MP4, MKV, AVI, MOV, WMV, FLV, and more.
-Image: JPEG, PNG, BMP, TIFF, WEBP, and others.
+- Supports multiple file formats:
+
+    - Audio: MP3, WAV, AAC, OGG, FLAC, M4A, WMA, and more.
+
+    - Video: MP4, MKV, AVI, MOV, WMV, FLV, and more.
+
+    - Image: JPEG, PNG, BMP, TIFF, WEBP, and others.
 
 - User-friendly interface with customizable themes.
 
