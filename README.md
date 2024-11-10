@@ -28,11 +28,10 @@ Image: JPEG, PNG, BMP, TIFF, WEBP, and others.
 
 1 - Install Dependencies
 
-2 - Open a terminal in the extracted folder and run the following command to install required libraries:
+- Open a terminal in the extracted folder and run the following command to install required libraries:
+  - pip install customtkinter ffmpeg-python
 
-- pip install customtkinter ffmpeg-python
-
-3 - Run the Application
+2 - Run the Application
   - Run the app by executing:
 
 - python File_Converter.py
