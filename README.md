@@ -35,7 +35,7 @@ Image: JPEG, PNG, BMP, TIFF, WEBP, and others.
 3 - Run the Application
   - Run the app by executing:
 
-python File_Converter.py
+- python File_Converter.py
 
 # Usage
 
